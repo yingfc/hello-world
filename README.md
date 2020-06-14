@@ -1,2 +1,7 @@
 # hello-world
-hello repo
+hi there, 
+this is a README FILE OUTSIDE THE MASTER BRANCH.
+
+FOR TESTING REASON,
+@yingfc
+2020/06/14 15:58 GMT+8
